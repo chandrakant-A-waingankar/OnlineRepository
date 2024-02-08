@@ -1,1 +1,2 @@
-This document is made for testing GIT
+This document is made for testing GIT.
+This line is added after executing command git add Document12345.txt
