@@ -3,3 +3,5 @@ This document is made for testing GIT.
 This line is added after executing command git add Document12345.txt
 
 This line is added after i have commited the file 
+
+This line is added on remote direcory i.e. online 
